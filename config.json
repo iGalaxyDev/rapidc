@@ -1,0 +1,22 @@
+{
+"servers": [
+  {
+    "server": "vless://11125263-96f0-484f-e78e-653d1555dafa@mci.rapidc.online:443?security=tls&sni=rapidc.online&type=ws&path=/ports/10983&host=rapidc.online#OCEAN%20MCI",
+    "timer": 8,
+    "created": 1681756864042,
+    "___class": "test",
+    "ownerId": null,
+    "updated": 1681757118721,
+    "objectId": "4BBBE793-ABAB-4AC9-A756-453CEE9056F7"
+  },
+  {
+    "server": "vless://11125263-96f0-484f-e78e-653d1555dafa@mtn.rapidc.online:443?security=tls&sni=rapidc.online&type=ws&path=/ports/10983&host=rapidc.online#OCEAN%20MTN",
+    "timer": 8,
+    "created": 1681756779025,
+    "___class": "test",
+    "ownerId": null,
+    "updated": 1681756860090,
+    "objectId": "99EFD7E8-31F3-41B4-9728-89C0BF090FFA"
+  }
+]
+}
