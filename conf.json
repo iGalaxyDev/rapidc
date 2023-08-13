@@ -1,8 +1,7 @@
 {
-"data": [
-  {
+  "data": {
     "server": "vless://11125263-96f0-484f-e78e-653d1555dafa@mci.rapidc.online:443?security=tls&sni=rapidc.online&type=ws&path=/ports/10983&host=rapidc.online#OCEAN%20MCI",
     "timer": 8
   }
-]
 }
+
