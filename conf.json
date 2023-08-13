@@ -1,6 +1,6 @@
 {
   "data": {
-    "server": "vless://62a5ed0c-40b5-4913-a592-3ce09a19dcce@me.mewoomewoo.online:11526?type=grpc&serviceName=&security=tls&fp=&alpn=h2%2Chttp%2F1.1#UK-2050-u2gnkzyp",
+    "server": "vless://38dbbdaa-123d-45c2-aebf-4db43927186b@167.235.140.30:40499?type=tcp&path=%2F&headerType=http&security=none#rapid-wlgzt4wr",
     "timer": 8
   }
 }
