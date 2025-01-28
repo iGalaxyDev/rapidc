@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "server": "vless://one",
+      "server": "one",
       "timer": 8
     },
     {
-      "server": "vless://two",
+      "server": "two",
       "timer": 8
     }
   ]
