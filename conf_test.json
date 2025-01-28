@@ -1,11 +1,47 @@
 {
   "data": [
     {
-      "server": "vless://53ccb893-c024-4be9-a5d5-e8b9888143df@rapidc.site:40499?type=ONE_1_ONE",
+      "server": "server01",
       "timer": 8
     },
     {
-      "server": "vless://53ccb893-c024-4be9-a5d5-e8b9888143df@rapidc.site:40499?type=TWO_2_TWO",
+      "server": "server02",
+      "timer": 8
+    },
+    {
+      "server": "server03",
+      "timer": 8
+    },
+    {
+      "server": "server04",
+      "timer": 8
+    },
+    {
+      "server": "server05",
+      "timer": 8
+    },
+    {
+      "server": "server06",
+      "timer": 8
+    },
+    {
+      "server": "server07",
+      "timer": 8
+    },
+    {
+      "server": "server08",
+      "timer": 8
+    },
+    {
+      "server": "server09",
+      "timer": 8
+    },
+    {
+      "server": "server010",
+      "timer": 8
+    },
+    {
+      "server": "server011",
       "timer": 8
     }
   ]
