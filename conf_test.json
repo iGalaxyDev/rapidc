@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "server": "one",
+      "server": "vless://53ccb893-c024-4be9-a5d5-e8b9888143df@rapidc.site:40499SERVER11111,
       "timer": 8
     },
     {
-      "server": "two",
+      "server": "vless://53ccb893-c024-4be9-a5d5-e8b9888143df@rapidc.site:40499SERVER222222",
       "timer": 8
     }
   ]
