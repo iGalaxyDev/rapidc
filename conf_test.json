@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "server": vless://53ccb893-c024-4be9-a5d5-e8b9888143df@rapidc.site:40499?type=tcp&path=%2F&headerType=http&security=none#rapid-cj7wim8e",
+      "server": "vless://53ccb893-c024-4be9-a5d5-e8b9888143df@rapidc.site:40499?type=tcp&path=%2F&headerType=http&security=none#rapid-cj7wim8e",
       "timer": 8
     },
     {
