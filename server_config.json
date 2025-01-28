@@ -2,11 +2,11 @@
   "data": [
     {
       "server": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@5.78.63.22:3237?encryption=none&security=none&type=tcp&headerType=none#Default-Irancell-Rightel",
-      "timer": 1
+      "timer": 8
     },
     {
       "server": "vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh21v8.direct80ip.shop:8880?encryption=none&security=none&type=grpc#Default-Irancell-Rightel",
-      "timer": 2
+      "timer": 8
     }
   ]
 }
