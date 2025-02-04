@@ -3,52 +3,52 @@
     {
       "server": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@5.78.63.22:3237?encryption=none&security=none&type=tcp&headerType=none#Default-Irancell-Rightel",
       "country": "USA",
-      "timer": 60
+      "timer": 1
     },
     {
       "server": "vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh21v8.direct80ip.shop:8880?encryption=none&security=none&type=grpc#Default-Irancell-Rightel",
       "country": "France",
-      "timer": 60
+      "timer": 2
     },
     {
       "server": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@5.78.63.22:3237?encryption=none&security=none&type=tcp&headerType=none#Default-Irancell-Rightel",
       "country": "Germany",
-      "timer": 60
+      "timer": 3
     },
     {
       "server": "vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh21v8.direct80ip.shop:8880?encryption=none&security=none&type=grpc#Default-Irancell-Rightel",
       "country": "Denmark",
-      "timer": 60
+      "timer": 4
     },
     {
       "server": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@5.78.63.22:3237?encryption=none&security=none&type=tcp&headerType=none#Default-Irancell-Rightel",
       "country": "Italy",
-      "timer": 60
+      "timer": 5
     },
     {
       "server": "vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh21v8.direct80ip.shop:8880?encryption=none&security=none&type=grpc#Default-Irancell-Rightel",
       "country": "England",
-      "timer": 60
+      "timer": 6
     },
     {
       "server": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@5.78.63.22:3237?encryption=none&security=none&type=tcp&headerType=none#Default-Irancell-Rightel",
       "country": "Spain",
-      "timer": 60
+      "timer": 7
     },
     {
       "server": "vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh21v8.direct80ip.shop:8880?encryption=none&security=none&type=grpc#Default-Irancell-Rightel",
       "country": "Brazil",
-      "timer": 60
+      "timer": 8
     },
     {
       "server": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@5.78.63.22:3237?encryption=none&security=none&type=tcp&headerType=none#Default-Irancell-Rightel",
       "country": "Turkey",
-      "timer": 60
+      "timer": 9
     },
     {
       "server": "vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh21v8.direct80ip.shop:8880?encryption=none&security=none&type=grpc#Default-Irancell-Rightel",
       "country": "India",
-      "timer": 60
+      "timer": 10
     }
   ]
 }
