@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "server": "vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#all%20%F0%9F%87%A8%F0%9F%87%AD%E2%A4%BF%E2%AD%90%EF%B8%8F%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%3A%20%40Hajmvpn",
+      "country": "USA",
+      "timer": 1
+    },
+    {
+      "server": "vless://01221054-0b45-4525-b83a-548f4026a759@188.245.215.203:101?security=reality&encryption=none&pbk=8mTajmw3Mfksrm8IA9Wb7kahBw8a4TZcOw98c_EN0TU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=95f9#%F0%9F%87%A9%F0%9F%87%AA%201%EF%B8%8F%E2%83%A3%40PwV2ray",
+      "country": "France",
+      "timer": 2
+    },
+    {
+      "server": "vless://44ea12c9-69f3-4f19-c385-a4a7e136d411@188.245.233.230:111?mode=gun&security=reality&encryption=none&pbk=dI0LP4M7hntLeNdYt31yrkjgbrrmCUMMlSf4klThOGk&fp=chrome&type=grpc&sni=www.speedtest.net&sid=072b02#%F0%9F%87%A9%F0%9F%87%AA%202%EF%B8%8F%E2%83%A3%40PwV2ray",
+      "country": "Germany",
+      "timer": 3
+    },
+    {
+      "server": "vless://69f8b663-1bb1-466d-a440-82814c5281d2@142.132.237.159:333?mode=gun&security=reality&encryption=none&pbk=k7IVO7W6lPYjx7B9LnjZxA4cwTgCWiYF3w3wGE7wERU&fp=chrome&type=grpc&sni=www.speedtest.net&sid=fee425#%F0%9F%87%A9%F0%9F%87%AA%203%EF%B8%8F%E2%83%A3%40PwV2ray",
+      "country": "Denmark",
+      "timer": 4
+    },
+    {
+      "server": "vless://f4cf5881-2770-4106-add0-4fcd9fc3c01f@188.245.198.226:564?mode=gun&security=reality&encryption=none&pbk=HNxUFbdt218ojBsCv9V5rRsJk2rFQLY_8QjaKuIMrys&fp=chrome&type=grpc&sni=canva.com&sid=69#%F0%9F%87%A9%F0%9F%87%AA%204%EF%B8%8F%E2%83%A3%40PwV2ray",
+      "country": "Italy",
+      "timer": 5
+    }
+  ]
+}
