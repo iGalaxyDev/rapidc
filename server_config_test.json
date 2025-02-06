@@ -24,6 +24,11 @@
       "server": "vless://f4cf5881-2770-4106-add0-4fcd9fc3c01f@188.245.198.226:564?mode=gun&security=reality&encryption=none&pbk=HNxUFbdt218ojBsCv9V5rRsJk2rFQLY_8QjaKuIMrys&fp=chrome&type=grpc&sni=canva.com&sid=69#%F0%9F%87%A9%F0%9F%87%AA%204%EF%B8%8F%E2%83%A3%40PwV2ray",
       "country": "Italy",
       "timer": 5
+    },
+    {
+      "server": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@5.78.63.22:3237?encryption=none&security=none&type=tcp&headerType=none#Default-Irancell-Rightel",
+      "country": "Italy",
+      "timer": 5
     }
   ]
 }
