@@ -1,14 +1,6 @@
 {
- "servers": [
-   {
-     "server": "vless://11125263-96f0-484f-e78e-653d1555dafa@mci.rapidc.online:443?security=tls&sni=rapidc.online&type=ws&path=/ports/10983&host=rapidc.online#OCEAN%20MCI",
-     "timer": 8,
-     "oprator": "MCI"
-   },
-   {
-     "server": "vless://11125263-96f0-484f-e78e-653d1555dafa@mtn.rapidc.online:443?security=tls&sni=rapidc.online&type=ws&path=/ports/10983&host=rapidc.online#OCEAN%20MTN",
-     "timer": 8,
-     "oprator": "IRANCELL"
+   "data": {
+     "server": "vless://28d2767b-c138-463a-b1eb-68831bc9d707@167.235.140.30:40499?type=tcp&path=%2F&headerType=http&security=none#rapid-hyjrb2b6",
+     "timer": 8
    }
- ]
  }
