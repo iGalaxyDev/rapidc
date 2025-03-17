@@ -1,54 +1,36 @@
 {
   "data": [
     {
-      "server": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@5.78.63.22:3237?encryption=none&security=none&type=tcp&headerType=none#Default-Irancell-Rightel",
-      "country": "USA",
-      "timer": 1
-    },
-    {
-      "server": "vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh21v8.direct80ip.shop:8880?encryption=none&security=none&type=grpc#Default-Irancell-Rightel",
-      "country": "France",
-      "timer": 2
-    },
-    {
-      "server": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@5.78.63.22:3237?encryption=none&security=none&type=tcp&headerType=none#Default-Irancell-Rightel",
-      "country": "Germany",
-      "timer": 3
-    },
-    {
-      "server": "vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh21v8.direct80ip.shop:8880?encryption=none&security=none&type=grpc#Default-Irancell-Rightel",
-      "country": "Denmark",
-      "timer": 4
-    },
-    {
-      "server": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@5.78.63.22:3237?encryption=none&security=none&type=tcp&headerType=none#Default-Irancell-Rightel",
-      "country": "Italy",
-      "timer": 5
-    },
-    {
-      "server": "vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh21v8.direct80ip.shop:8880?encryption=none&security=none&type=grpc#Default-Irancell-Rightel",
-      "country": "England",
-      "timer": 6
-    },
-    {
-      "server": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@5.78.63.22:3237?encryption=none&security=none&type=tcp&headerType=none#Default-Irancell-Rightel",
-      "country": "Spain",
-      "timer": 7
-    },
-    {
-      "server": "vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh21v8.direct80ip.shop:8880?encryption=none&security=none&type=grpc#Default-Irancell-Rightel",
-      "country": "Brazil",
+      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?encryption=none&security=tls&type=ws&host=khluw.madison-doshaboone.info&path=%2Ftiger&sni=khluw.madison-doshaboone.info#France_777",
       "timer": 8
     },
     {
-      "server": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@5.78.63.22:3237?encryption=none&security=none&type=tcp&headerType=none#Default-Irancell-Rightel",
-      "country": "Turkey",
-      "timer": 9
+      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?encryption=none&security=tls&type=ws&host=muabf.lucas-shaboone.info&path=%2Ftiger&sni=muabf.lucas-shaboone.info#France_778", 
+      "timer": 8
     },
     {
-      "server": "vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh21v8.direct80ip.shop:8880?encryption=none&security=none&type=grpc#Default-Irancell-Rightel",
-      "country": "India",
-      "timer": 10
+      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?encryption=none&security=tls&type=ws&host=orafm.isabella-doshaboone.info&path=%2Ftiger&sni=orafm.isabella-doshaboone.info#France_779",
+      "timer": 8
+    },
+    {
+      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?encryption=none&security=tls&type=ws&host=umlkx.patrick-doshaboone.info&path=%2Ftiger&sni=umlkx.patrick-doshaboone.info#Ger_797",
+      "timer": 8
+    },
+    {
+      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?encryption=none&security=tls&type=ws&host=dsuvs.quinn-doshaboone.info&path=%2Ftiger&sni=dsuvs.quinn-doshaboone.info#Ger_798",
+      "timer": 8
+    },
+    {
+      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?encryption=none&security=tls&type=ws&host=nenka.theodore-doshaboone.info&path=%2Ftiger&sni=nenka.theodore-doshaboone.info#Ger_799",
+      "timer": 8
+    },
+    {
+      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?encryption=none&security=tls&type=ws&host=mnyws.quinn-shaboone.info&path=%2Ftiger&sni=mnyws.quinn-shaboone.info#Germany_812",
+      "timer": 8
+    },
+    {
+      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?encryption=none&security=tls&type=ws&host=nkdla.samuel-doshaboone.info&path=%2Ftiger&sni=nkdla.samuel-doshaboone.info#Germany_816",
+      "timer": 8
     }
   ]
 }
