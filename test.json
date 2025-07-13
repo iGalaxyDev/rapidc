@@ -30,5 +30,8 @@
       "country": "Australia",
       "timer": 30
     }
-  ]
+  ],
+  "user_id": {
+    "id": "vless://46d1e4a4-c31d-4640-8572-5b990d537c2a@v19.eldenvpn.net:20002?type=tcp&path=/&security=none#226112"
+  }
 }
