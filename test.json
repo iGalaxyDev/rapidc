@@ -1,37 +1,12 @@
 {
   "servers": [
     {
-      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@www.speedtest.net:443?type=ws&host=ybvhf.christopher-motalebegarbashhamishe.info&path=/tiger&security=tls&sni=ybvhf.christopher-motalebegarbashhamishe.info#Germay_881",
-      "country": "Australia",
-      "timer": 30
-    },
-    {
-      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@www.speedtest.net:443?type=ws&host=jfnbv.donald-sportage.info&path=/tiger&security=tls&sni=jfnbv.donald-sportage.info#Germay_876",
-      "country": "UK",
-      "timer": 30
-    },
-    {
-      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@www.speedtest.net:443?type=ws&host=psuqq.thomas-motalebegarbashhamishe.info&path=/tiger&security=tls&sni=psuqq.thomas-motalebegarbashhamishe.info#Germay_880",
-      "country": "Germany",
-      "timer": 30
-    },
-    {
-      "server": "vless://e4824193-4f54-453b-d037-88368e85ef0e@138.124.183.146:8880?type=grpc&mode=gun&security=none#server:%23HN00275_1275",
-      "country": "UK",
-      "timer": 30
-    },
-    {
-      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@www.speedtest.net:443?type=ws&host=tydfp.richard-motalebegarbashhamishe.info&path=/tiger&security=tls&sni=tydfp.richard-motalebegarbashhamishe.info#Germay_879",
-      "country": "Germany",
-      "timer": 30
-    },
-    {
-      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@www.speedtest.net:443?type=ws&host=rgntu.mark-sportage.info&path=/tiger&security=tls&sni=rgntu.mark-sportage.info#Germay_877",
-      "country": "Australia",
+      "server": "vless://a114a375-6571-4d73-97ec-27abe2333cc7@151.101.69.129:443?encryption=none&type=xhttp&mode=packet-up&host=pixel.ir&path=/category/training/?ed%3D443&security=tls&fp=firefox&sni=speedtest.net&alpn=h2&allowInsecure=true#%F0%9F%87%AE%F0%9F%87%B9%F0%9F%9B%B8%20%7C%20Milan%20%D8%AA%D9%85%D8%A7%D9%85%20%E2%80%8C%D9%86%D8%AA%E2%80%8C%D9%87%D8%A7",
+      "country": "Milan",
       "timer": 30
     }
   ],
   "user_id": {
-    "id": "vless://78e67a0f-4584-422d-9a18-f71bb98b46a7@v5.eldenvpn.net:45502?type=tcp&path=/&security=none#EldenPingNL2-229858"
+    "id": "vless://a114a375-6571-4d73-97ec-27abe2333cc7@151.101.69.129:443?encryption=none&type=xhttp&mode=packet-up&host=pixel.ir&path=/category/training/?ed%3D443&security=tls&fp=firefox&sni=speedtest.net&alpn=h2&allowInsecure=true#%F0%9F%87%AE%F0%9F%87%B9%F0%9F%9B%B8%20%7C%20Milan%20%D8%AA%D9%85%D8%A7%D9%85%20%E2%80%8C%D9%86%D8%AA%E2%80%8C%D9%87%D8%A7"
   }
 }
