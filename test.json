@@ -1,12 +1,12 @@
 {
   "servers": [
     {
-      "server": "vless://a114a375-6571-4d73-97ec-27abe2333cc7@151.101.71.203:443?encryption=none&type=xhttp&mode=packet-up&host=fontyab.com&path=/category/training/?ed%3D443&security=tls&fp=chrome&sni=speedtest.net&alpn=h2&allowInsecure=true#%F0%9F%87%AC%F0%9F%87%A7%F0%9F%9B%B8%20%7C%20London%20%D8%AA%D9%85%D8%A7%D9%85%20%D9%86%D8%AA%E2%80%8C%D9%87%D8%A7",
-      "country": "London",
+      "server": "vless://a114a375-6571-4d73-97ec-27abe2333cc7@151.101.69.129:443?encryption=none&type=xhttp&mode=packet-up&host=pixel.ir&path=/category/training/?ed%3D443&security=tls&fp=firefox&sni=speedtest.net&alpn=h2&allowInsecure=true#%F0%9F%87%AE%F0%9F%87%B9%F0%9F%9B%B8%20%7C%20Milan%20%D8%AA%D9%85%D8%A7%D9%85%20%E2%80%8C%D9%86%D8%AA%E2%80%8C%D9%87%D8%A7",
+      "country": "Milan",
       "timer": 30
     }
   ],
   "user_id": {
-    "id": "vless://a114a375-6571-4d73-97ec-27abe2333cc7@151.101.71.203:443?encryption=none&type=xhttp&mode=packet-up&host=fontyab.com&path=/category/training/?ed%3D443&security=tls&fp=chrome&sni=speedtest.net&alpn=h2&allowInsecure=true#%F0%9F%87%AC%F0%9F%87%A7%F0%9F%9B%B8%20%7C%20London%20%D8%AA%D9%85%D8%A7%D9%85%20%D9%86%D8%AA%E2%80%8C%D9%87%D8%A7"
+    "id": "vless://a114a375-6571-4d73-97ec-27abe2333cc7@151.101.69.129:443?encryption=none&type=xhttp&mode=packet-up&host=pixel.ir&path=/category/training/?ed%3D443&security=tls&fp=firefox&sni=speedtest.net&alpn=h2&allowInsecure=true#%F0%9F%87%AE%F0%9F%87%B9%F0%9F%9B%B8%20%7C%20Milan%20%D8%AA%D9%85%D8%A7%D9%85%20%E2%80%8C%D9%86%D8%AA%E2%80%8C%D9%87%D8%A7"
   }
 }
