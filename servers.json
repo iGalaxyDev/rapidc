@@ -1,34 +1,34 @@
 {
   "servers": [
     {
-      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@www.speedtest.net:443?type=ws&host=ybvhf.christopher-motalebegarbashhamishe.info&path=/tiger&security=tls&sni=ybvhf.christopher-motalebegarbashhamishe.info#Germay_881",
+      "server": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&spx=%2F&type=tcp&headerType=none#server:#HN00285_1285",
       "country": "Australia",
-      "timer": 30
+      "timer": 25
     },
     {
-      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@www.speedtest.net:443?type=ws&host=jfnbv.donald-sportage.info&path=/tiger&security=tls&sni=jfnbv.donald-sportage.info#Germay_876",
+      "server": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&spx=%2F&type=tcp&headerType=none#server:#HN00345_1345",
       "country": "UK",
-      "timer": 30
+      "timer": 25
     },
     {
-      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@www.speedtest.net:443?type=ws&host=psuqq.thomas-motalebegarbashhamishe.info&path=/tiger&security=tls&sni=psuqq.thomas-motalebegarbashhamishe.info#Germay_880",
+      "server": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&spx=%2F&type=tcp&headerType=none#server:#HN00565_1565",
       "country": "Germany",
-      "timer": 30
+      "timer": 25
     },
     {
-      "server": "vless://e4824193-4f54-453b-d037-88368e85ef0e@138.124.183.146:8880?type=grpc&mode=gun&security=none#server:%23HN00275_1275",
+      "server": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&spx=%2F&type=tcp&headerType=none#server:#HN00745_1745",
       "country": "UK",
-      "timer": 30
+      "timer": 25
     },
     {
-      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@www.speedtest.net:443?type=ws&host=tydfp.richard-motalebegarbashhamishe.info&path=/tiger&security=tls&sni=tydfp.richard-motalebegarbashhamishe.info#Germay_879",
+      "server": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&spx=%2F&type=tcp&headerType=none#server:#HN00815_1815",
       "country": "Germany",
-      "timer": 30
+      "timer": 25
     },
     {
-      "server": "vless://cd2e9541-3fce-4d95-9bec-919d884f911e@www.speedtest.net:443?type=ws&host=rgntu.mark-sportage.info&path=/tiger&security=tls&sni=rgntu.mark-sportage.info#Germay_877",
+      "server": "vless://ad856119-7bbb-4e13-babc-5695f28040f8@83.228.229.216:80?encryption=none&security=none&type=ws&path=%2Fwebsocket#server:#HN00275_1275",
       "country": "Australia",
-      "timer": 30
+      "timer": 25
     }
   ]
 }
