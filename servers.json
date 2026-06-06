@@ -1,34 +1,19 @@
 {
   "servers": [
     {
-      "server": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&spx=%2F&type=tcp&headerType=none#server:#HN00285_1285",
+      "server": "vless://781b8ec3-8057-4ff7-912c-a64df7fa8f37@141.227.139.220:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.speedtest.net&pbk=Uemku5s4YHyFZZ30vdZc-GYjMIF_qka-64moxoPXSSA&sid=c8edc84e858f69a2&spx=/#server:%23HN00855_1855",
       "country": "Australia",
-      "timer": 25
+      "timer": 30
     },
     {
-      "server": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&spx=%2F&type=tcp&headerType=none#server:#HN00345_1345",
+      "server": "vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.speedtest.net&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&sid=9a4c7d2f8e1b6a3c#server:%23HN00525_1525",
       "country": "UK",
-      "timer": 25
+      "timer": 30
     },
     {
-      "server": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&spx=%2F&type=tcp&headerType=none#server:#HN00565_1565",
+      "server": "vless://b7e08d3a-92f3-40bf-af24-c9492bc67b3c@40.160.233.134:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speedtest.net&pbk=mXWYip_umPqiVNmysaIbhUHqMYKlk_6saalekCGVcR8&sid=76130133b96b2fe3#server:%23HN00265_1265",
       "country": "Germany",
-      "timer": 25
-    },
-    {
-      "server": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&spx=%2F&type=tcp&headerType=none#server:#HN00745_1745",
-      "country": "UK",
-      "timer": 25
-    },
-    {
-      "server": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&spx=%2F&type=tcp&headerType=none#server:#HN00815_1815",
-      "country": "Germany",
-      "timer": 25
-    },
-    {
-      "server": "vless://ad856119-7bbb-4e13-babc-5695f28040f8@83.228.229.216:80?encryption=none&security=none&type=ws&path=%2Fwebsocket#server:#HN00275_1275",
-      "country": "Australia",
-      "timer": 25
+      "timer": 30
     }
   ]
 }
