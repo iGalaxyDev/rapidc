@@ -6,7 +6,7 @@
       "timer": 30
     },
     {
-      "server": "vless://ae17d95a-1f96-44cc-a167-23f5c903082b@fr1.goldengate.fun:443?encryption=none&type=ws&host=fr1.goldengate.fun&path=/9a3c7e2f8d1b5a4c6f0e9d2b7c8a5f3d/workers/runtime/execution/env/production/config&security=tls&fp=random&sni=fr1.goldengate.fun&alpn=http/1.1#Goldengate1",
+      "server": "vless://b7e08d3a-92f3-40bf-af24-c9492bc67b3c@40.160.233.134:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speedtest.net&pbk=mXWYip_umPqiVNmysaIbhUHqMYKlk_6saalekCGVcR8&sid=76130133b96b2fe3#server:%23HN00265_1265",
       "country": "UK",
       "timer": 30
     },
