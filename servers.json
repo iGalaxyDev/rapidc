@@ -1,7 +1,7 @@
 {
   "servers": [
     {
-      "server": "vless://781b8ec3-8057-4ff7-912c-a64df7fa8f37@141.227.139.220:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.speedtest.net&pbk=Uemku5s4YHyFZZ30vdZc-GYjMIF_qka-64moxoPXSSA&sid=c8edc84e858f69a2&spx=/#server:%23HN00855_1855",
+      "server": "vless://ae17d95a-1f96-44cc-a167-23f5c903082b@fr1.goldengate.fun:443?encryption=none&type=ws&host=fr1.goldengate.fun&path=/9a3c7e2f8d1b5a4c6f0e9d2b7c8a5f3d/workers/runtime/execution/env/production/config&security=tls&fp=random&sni=fr1.goldengate.fun&alpn=http/1.1#Goldengate1",
       "country": "Australia",
       "timer": 30
     },
